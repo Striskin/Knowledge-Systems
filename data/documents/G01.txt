@@ -1,0 +1,1 @@
+A device loan requires approval. The loan register records the borrower, asset identifier, due date and return signature. Staff must obtain approval before the device loan and maintain return records for custody verification.

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "D01",
+    "title": "Reset a tablet",
+    "category": "Device Support",
+    "owner": "Service Desk",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/D01.txt",
+    "split": "train"
+  },
+  {
+    "id": "D02",
+    "title": "Wireless connection",
+    "category": "Device Support",
+    "owner": "Service Desk",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/D02.txt",
+    "split": "train"
+  },
+  {
+    "id": "D03",
+    "title": "Application installation",
+    "category": "Device Support",
+    "owner": "Service Desk",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/D03.txt",
+    "split": "train"
+  },
+  {
+    "id": "D04",
+    "title": "Charging diagnostics",
+    "category": "Device Support",
+    "owner": "Service Desk",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/D04.txt",
+    "split": "train"
+  },
+  {
+    "id": "D05",
+    "title": "Frozen screen recovery",
+    "category": "Device Support",
+    "owner": "Service Desk",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/D05.txt",
+    "split": "test"
+  },
+  {
+    "id": "D06",
+    "title": "Storage repair",
+    "category": "Device Support",
+    "owner": "Service Desk",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/D06.txt",
+    "split": "test"
+  },
+  {
+    "id": "T01",
+    "title": "Visual lesson planning",
+    "category": "Inclusive Teaching",
+    "owner": "Learning Design",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/T01.txt",
+    "split": "train"
+  },
+  {
+    "id": "T02",
+    "title": "Accessible reading",
+    "category": "Inclusive Teaching",
+    "owner": "Learning Design",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/T02.txt",
+    "split": "train"
+  },
+  {
+    "id": "T03",
+    "title": "Number learning activities",
+    "category": "Inclusive Teaching",
+    "owner": "Learning Design",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/T03.txt",
+    "split": "train"
+  },
+  {
+    "id": "T04",
+    "title": "Communication choices",
+    "category": "Inclusive Teaching",
+    "owner": "Learning Design",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/T04.txt",
+    "split": "train"
+  },
+  {
+    "id": "T05",
+    "title": "Picture-supported lesson",
+    "category": "Inclusive Teaching",
+    "owner": "Learning Design",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/T05.txt",
+    "split": "test"
+  },
+  {
+    "id": "T06",
+    "title": "Reading adaptation",
+    "category": "Inclusive Teaching",
+    "owner": "Learning Design",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/T06.txt",
+    "split": "test"
+  },
+  {
+    "id": "G01",
+    "title": "Device loan policy",
+    "category": "Governance",
+    "owner": "Compliance",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/G01.txt",
+    "split": "train"
+  },
+  {
+    "id": "G02",
+    "title": "Privacy policy",
+    "category": "Governance",
+    "owner": "Compliance",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/G02.txt",
+    "split": "train"
+  },
+  {
+    "id": "G03",
+    "title": "Access review policy",
+    "category": "Governance",
+    "owner": "Compliance",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/G03.txt",
+    "split": "train"
+  },
+  {
+    "id": "G04",
+    "title": "Inventory audit policy",
+    "category": "Governance",
+    "owner": "Compliance",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/G04.txt",
+    "split": "train"
+  },
+  {
+    "id": "G05",
+    "title": "Loan return procedure",
+    "category": "Governance",
+    "owner": "Compliance",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/G05.txt",
+    "split": "test"
+  },
+  {
+    "id": "G06",
+    "title": "Personal data retention",
+    "category": "Governance",
+    "owner": "Compliance",
+    "version": "1.0",
+    "review_date": "2027-01-28",
+    "path": "data/documents/G06.txt",
+    "split": "test"
+  }
+]

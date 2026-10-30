@@ -1,0 +1,1 @@
+The inventory audit policy checks asset custody and loan records. Compliance verifies approval, asset identifiers and return signatures against the register. Staff document missing records and retain the audit evidence according to policy.

@@ -1,0 +1,1 @@
+Check the tablet wireless settings when a device cannot connect. Restart the wireless connection, confirm the network password and test the signal. Record the diagnosis and repair in a support ticket.

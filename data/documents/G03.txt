@@ -1,0 +1,1 @@
+Compliance reviews staff access to organizational records. Each access request requires approval from an authorized owner. The policy records permissions and review dates. Remove expired access and document the approval decision.

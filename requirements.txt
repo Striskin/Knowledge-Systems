@@ -1,0 +1,2 @@
+# Core prototype, tests, practice exercises and evidence viewer use Python 3.10+ standard library only.
+# Historical coursework notebooks have separate optional dependencies described in README.md.

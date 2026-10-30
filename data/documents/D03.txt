@@ -1,0 +1,1 @@
+Install the approved application on the tablet. Check device storage, download the application package and verify the settings. Restart the device after installation. Record the technical repair in a support ticket.

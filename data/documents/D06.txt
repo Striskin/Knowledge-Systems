@@ -1,0 +1,1 @@
+Check tablet storage when an application cannot install. Remove temporary files, check device settings and restart the tablet. Test the application after the repair and record the outcome in a support ticket.
